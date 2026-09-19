@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" width="400" style="border-radius:10px;" src="https://i.pinimg.com/736x/b8/a0/0b/b8a00b2b9e827a7e541d949ad605087b.jpg"  />
+  <img data-importer="image" width="400"  src="https://i.pinimg.com/736x/b8/a0/0b/b8a00b2b9e827a7e541d949ad605087b.jpg"  />
 </div>
 
 ###
