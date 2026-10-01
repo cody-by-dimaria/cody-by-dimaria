@@ -1,31 +1,4 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="[https://i.pinimg.com/736x/b8/a0/0b/b8a00b2b9e827a7e541d949ad605087b.jpg](https://w.wallhaven.cc/full/w8/wallhaven-w8mp2p.jpg)"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/samuel__487/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=cody-by-dimaria.cody-by-dimaria&left_color=black&right_color=black"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<img data-importer="image" align="left" height="200" src="https://w.wallhaven.cc/full/zp/wallhaven-zp91mw.jpg"  />
 
 ###
 
@@ -42,6 +15,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/samuel__487/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=cody-by-dimaria&fontSize=20&fontColor=696969&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
