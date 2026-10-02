@@ -46,3 +46,21 @@
 <p data-importer="text" align="center">👋 Hi! I'm Samuel<br><br>🎓 I'm a Systems Development student at SENAI<br>💻 Currently learning programming and web development<br>🚀 I'm always looking to improve my skills and create new projects<br><br>🧠 Currently learning:<br>HTML • CSS • JavaScript • Java • SQL<br><br>🎮 In my free time:<br>Gaming • Football • Music • Cars<br><br>🎯 My goal:<br>Become a developer and keep growing in the technology field.</p>
 
 ###
+
+## 🚀 My Projects
+
+### 🎮 [GameStation](https://github.com/cody-by-dimaria/GameStation)
+
+A game-themed project developed using HTML, CSS and JavaScript.
+
+### 🔢 [Guess the Number](https://github.com/cody-by-dimaria/adivinhe-o-numero)
+
+A game where users try to guess a number between 1 and 100.
+
+### 🚗 [BMW M Line](https://github.com/cody-by-dimaria/projeto-BMW)
+
+A website about BMW M cars, featuring their models and history.
+
+### ⚽ [AC Milan Website](https://github.com/cody-by-dimaria/projeto-Milan-HTML)
+
+A website dedicated to AC Milan, its history and achievements.
