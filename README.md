@@ -47,6 +47,11 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=samul_ka
+    &fontSize=25&fontColor=696969&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&descAlign=20&descAlignY=20&textBg=false&color=00000"  />
+</div>
+
 <div align="center">
 
 ## 🚀 My Projects
@@ -69,7 +74,5 @@ A website dedicated to AC Milan, its history and achievements.
 
 </div>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=cody-by-dimaria&fontSize=25&fontColor=696969&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&descAlign=20&descAlignY=20&textBg=false&color=00000"  />
-</div>
+
 
