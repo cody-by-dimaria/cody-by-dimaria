@@ -1,7 +1,4 @@
-<br clear="both">
-
-<img data-importer="image" align="left" height="200" src="https://camo.githubusercontent.com/435f7d818c56147a5713ed7f032593754c3feb3de7bf129fd0be1532571b06bd/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a702f77616c6c686176656e2d7a7039316d772e6a7067"  />
-
+<img data-importer="image" align="left" height="200" src="https://w.wallhaven.cc/full/zp/wallhaven-zp91mw.jpg"  />
 
 ###
 
@@ -11,11 +8,11 @@
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
@@ -33,7 +30,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=cody-by-dimaria&fontSize=20&fontColor=696969&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=000000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=cody-by-dimaria&fontSize=30&fontColor=BEBEBE&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&descAlign=20&descAlignY=20&textBg=false&color=00000"  />
 </div>
 
 ###
