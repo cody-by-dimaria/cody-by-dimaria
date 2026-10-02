@@ -20,7 +20,7 @@
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <a href="https://www.instagram.com/samuel__487/" target="_blank">
+  <a href="https://www.instagram.com/samuel__487/" target="https://www.linkedin.com/in/samuel-de-paula-06b8433b8/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
