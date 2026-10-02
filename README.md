@@ -30,7 +30,7 @@
 <br clear="both">
 
 <div data-importer="border"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=GAME%20OVER&fontSize=28&fontColor=B22222&fontAlign=50&fontAlignY=50&animation=blinking&textBg=false&color=000000" /> </div>
-###
+
 
 <h1 data-importer="text" align="center">hey there 👋</h1>
 
