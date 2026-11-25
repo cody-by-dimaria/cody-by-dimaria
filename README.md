@@ -71,4 +71,8 @@ A website dedicated to AC Milan, its history and achievements.
 
 </div>
 
+### 🏆 Certifications
+
+- 🎓 **[Fundamentals of Artificial Intelligence and Data Analysis](https://github.com/cody-by-dimaria/cody-by-dimaria/blob/main/Certificado_Fundamentos%20de%20Intelig%C3%AAncia%20Artificial%20e%20An%C3%A1lise%20de%20Dado.pdf)** — **SENAI** *(Completed - 2026)*
+
 ###
