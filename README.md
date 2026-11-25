@@ -79,7 +79,7 @@ A website dedicated to AC Milan, its history and achievements.
 
 40-hour in-person course completed at SENAI Cotia (2026), covering core Artificial Intelligence concepts, statistics, and data analysis using Python.
 
-[🔗 Verify Credential (SENAI-SP)](https://www.sp.senai.br/consulta-certificado?qrcode=13826224121/16103102)
+
 
 </div>
 
