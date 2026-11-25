@@ -71,6 +71,8 @@ A website dedicated to AC Milan, its history and achievements.
 
 </div>
 
+<br clear="both">
+
 <div data-importer="border"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=GAME%20OVER&fontSize=35&fontColor=FF0000&fontAlign=50&fontAlignY=50&animation=blinking&textBg=false&color=000000" /> </div>
 <div align="center">
 
