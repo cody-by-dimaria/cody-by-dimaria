@@ -71,10 +71,16 @@ A website dedicated to AC Milan, its history and achievements.
 
 </div>
 
+<div align="center">
+
 ## 🏆 Certificates & Certifications
 
 ### 🎓 [Fundamentals of Artificial Intelligence and Data Analysis](https://github.com/cody-by-dimaria/cody-by-dimaria/blob/main/Certificado_Fundamentos%20de%20Intelig%C3%AAncia%20Artificial%20e%20An%C3%A1lise%20de%20Dado.pdf)
 
-40-hour in-person course completed at SENAI Cotia (2026), covering core Artificial Intelligence concepts and data analysis fundamentals.
+40-hour in-person course completed at SENAI Cotia (2026), covering core Artificial Intelligence concepts, statistics, and data analysis using Python.
+
+[🔗 Verify Credential (SENAI-SP)](https://www.sp.senai.br/consulta-certificado?qrcode=13826224121/16103102)
+
+</div>
 
 ###
